@@ -1,0 +1,41 @@
+# NJIT-SD-03 Milestone Project: Planning
+
+--------
+
+## Project Description
+
+My project is tower defence.
+
+## Game Logic
+```
+Enemies will spawn and move towards your base on a path
+Player builds towers alongside path.
+Killing enemies grants points
+    Points are used to upgrade and build towers
+You lose when the enemy destroys your base
+```
+
+## Deliverables
+
+### MVP Criteria
+
+- Player will be able to build towers
+- Enemies will spawn on a path
+- Player loses when base is destroyed
+
+### Post-MVP Plans
+
+- Impliment a system that gives certain towers "active abilities".
+- Create a rudimentry map editor
+- Create an online multiplayer VS mode utilizing node js and websockets
+
+## Project Planning
+
+| Date | Goals |
+| ---- | ----- |
+| Sun. 01/23 | Create GitHub repository. Complete README.md. |
+| Tue. 01/25 | Create grid pathing system. Create enemies that follow path |
+| Thu. 01/27 | Create towers and base |
+| Sun. 01/30 | Create map editor |
+| Tue. 02/01 | Create online multiplayer mode using websocket |
+| Thu. 02/03 | Deploy to GitHub Pages. Submit completed project. Project presentations. |
